@@ -1,0 +1,8 @@
+H:\software\freedraw\freedraw\bin\Debug\freedraw.exe.config
+H:\software\freedraw\freedraw\bin\Debug\freedraw.exe
+H:\software\freedraw\freedraw\bin\Debug\freedraw.pdb
+H:\software\freedraw\freedraw\obj\Debug\freedraw.Form1.resources
+H:\software\freedraw\freedraw\obj\Debug\freedraw.Properties.Resources.resources
+H:\software\freedraw\freedraw\obj\Debug\freedraw.csproj.GenerateResource.Cache
+H:\software\freedraw\freedraw\obj\Debug\freedraw.exe
+H:\software\freedraw\freedraw\obj\Debug\freedraw.pdb
